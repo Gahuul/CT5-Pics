@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pics</string>
+    <string name="pic1">Picture 1.</string>
+    <string name="pic2">Picture 2</string>
+    <string name="pic3">Picture 3</string>
+    <string name="pic4">Picture 4</string>
+    <string name="pic5">Picture 5</string>
+    <string name="pic6">Picture 6</string>
+    <string name="pic7">Picture 7</string>
+    <string name="pic8">Picture 8</string>
+    <string name="pic9">Picture 9</string>
+    <string name="pic10">Picture 10</string>
+</resources>
